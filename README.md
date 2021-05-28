@@ -12,6 +12,9 @@ $ cd cd server-monitoring-to-creating-datasets/
 # Install dependencies.
 $ pip install -r requirements.txt
 
+# go to montior directory
+$ cd monitor
+
 # example usage
 $ python3 monitor.py -i 10 -o test.txt
 ```
