@@ -1,6 +1,6 @@
 # server-monitoring-to-creating-datasets
 
-You can create a csv file which is system usage resources(i.e. ram usage, cpu usage ...). We used it for creating example datasets on our local PC or server. 
+You can create a csv file which is system usage resources(i.e. ram usage, cpu usage ...). We used it for creating example datasets on our local PC or server. you can use for monitoring system metrics as agent on server. 
 
 ### Installation
 
