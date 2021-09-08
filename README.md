@@ -7,7 +7,7 @@ You can create a csv file which is system usage resources(i.e. ram usage, cpu us
 ```bash
 # Install from repository
 $ git clone https://github.com/osmanuygar/server-monitoring-to-creating-datasets.git
-$ cd cd server-monitoring-to-creating-datasets/
+$ cd server-monitoring-to-creating-datasets/
 
 # Install dependencies.
 $ pip install -r requirements.txt
